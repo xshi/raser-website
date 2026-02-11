@@ -4,12 +4,11 @@
   - raser 
 
 
-  - title: Publications
+- title: Publications
   pages:
     - publications/p11_irrad_atlas18_itk
-
     
-  - title: P1 - P10 
+- title: P1 - P10 
   pages:
     - publications/p10_sic_pin_high_T
     - publications/p9_SiC_LGAD
