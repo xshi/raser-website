@@ -4,8 +4,11 @@
   - raser 
 
 
-- title: Publications
+- title: P11 - P14 
   pages:
+    - publications/p14_rise_time_graphene
+    - publications/p13_rad_sic_lgad_80_mev
+    - publications/p12_si_rad_sim
     - publications/p11_irrad_atlas18_itk
     
 - title: P1 - P10 
